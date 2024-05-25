@@ -1,0 +1,7 @@
+PyQt6
+numpy
+pyqtdarktheme
+scikit-image
+Pillow
+dlib
+qdarktheme
